@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "qtrBdEx1B69l/4d2nV/CTX/zNmdU2lrrpE3/0SwrTD+O0Rv0qa9G94jqfpATxaiOk2DXJOohDSJ73ADjdPc35g==",
+  "success": true,
+  "projectFilePath": "/Users/hadi/Desktop/Videos/Pong-Video/Pong/Pong.csproj",
+  "expectedPackageFiles": [
+    "/Users/hadi/.nuget/packages/monogame.content.builder.task/3.8.1.303/monogame.content.builder.task.3.8.1.303.nupkg.sha512",
+    "/Users/hadi/.nuget/packages/monogame.framework.desktopgl/3.8.1.303/monogame.framework.desktopgl.3.8.1.303.nupkg.sha512"
+  ],
+  "logs": []
+}
