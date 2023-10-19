@@ -102,25 +102,31 @@
     ]
   },
   "packageFolders": {
-    "/Users/hadi/.nuget/packages/": {}
+    "C:\\Users\\shahbajm\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/hadi/Desktop/Videos/Pong-Video/Pong/Pong.csproj",
-      "projectName": "Pong",
-      "projectPath": "/Users/hadi/Desktop/Videos/Pong-Video/Pong/Pong.csproj",
-      "packagesPath": "/Users/hadi/.nuget/packages/",
-      "outputPath": "/Users/hadi/Desktop/Videos/Pong-Video/Pong/obj/",
+      "projectUniqueName": "C:\\Users\\shahbajm\\source\\repos\\Project1\\Project1\\Cong.csproj",
+      "projectName": "Cong",
+      "projectPath": "C:\\Users\\shahbajm\\source\\repos\\Project1\\Project1\\Cong.csproj",
+      "packagesPath": "C:\\Users\\shahbajm\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\shahbajm\\source\\repos\\Project1\\Project1\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
-        "/Users/hadi/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\shahbajm\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
       ],
       "sources": {
-        "/usr/local/share/dotnet/library-packs": {},
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -164,7 +170,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.308/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
       }
     }
   }
